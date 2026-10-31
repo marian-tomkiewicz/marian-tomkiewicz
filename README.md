@@ -2,9 +2,9 @@
 
 ### Fullstack Developer | AI | Technical SEO & GEO
 
-Fullstack Developer specializing in custom web development, web application engineering, technical SEO and search engine optimization. Focuses on building bespoke websites and applications using modern web technologies, with particular emphasis on performance, scalability and tailored solutions.
+Fullstack Developer specializing in custom web development, web application engineering and technical SEO. Focuses on building bespoke websites and web applications using PHP, JavaScript and modern web technologies, with particular emphasis on performance, scalability and tailored solutions.
 
-Combines software development expertise with an analytical approach to website optimization, data analysis and artificial intelligence. His areas of interest include machine learning, neural networks and natural language processing (NLP). His work in SEO also encompasses Generative Engine Optimization (GEO), focusing on website visibility and content discoverability across AI-powered search systems such as ChatGPT, Perplexity and Google AI Overviews.
+Combines software development expertise with an analytical approach to website optimization, data analysis and artificial intelligence. Areas of interest include machine learning, neural networks and natural language processing (NLP). His work in search optimization also encompasses Generative Engine Optimization (GEO), focusing on website visibility across AI-powered search systems.
 
 ---
 
@@ -13,9 +13,9 @@ Combines software development expertise with an analytical approach to website o
 ### Fullstack Development
 - Custom Web Development & Bespoke Websites
 - Web Application Development
-- PHP, Yii, Laravel
-- JavaScript, HTML5, CSS3, Sass
-- SQL & MySQL
+- Backend Development: PHP, Yii, Laravel
+- Frontend Development: JavaScript, HTML5, CSS3, Sass
+- Database Design & Management: SQL, MySQL
 - Python
 
 ### Artificial Intelligence & Data Analysis
@@ -54,9 +54,15 @@ Combines software development expertise with an analytical approach to website o
 
 **3WAVES – Web Development, SEO & GEO**
 
-Website: https://3waves.de/
+**Websites:**
+- [3WAVES – Polska](https://3waves.pl/)
+- [3WAVES – Deutschland](https://3waves.de/)
 
-Expert Profile: https://3waves.de/experten/marian-tomkiewicz/
+**Locations:** Warsaw, Poland | Frankfurt am Main, Germany
+
+**Expert Profiles:**
+- [Marian Tomkiewicz – profil eksperta (PL)](https://3waves.pl/eksperci/marian-tomkiewicz/)
+- [Marian Tomkiewicz – Expertenprofil (DE)](https://3waves.de/experten/marian-tomkiewicz/)
 
 ---
 
@@ -81,5 +87,6 @@ Państwowa Akademia Nauk Stosowanych w Krośnie (2007–2011)
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/marian-tomkiewicz-951267209/)
-- [3WAVES](https://3waves.de/)
+- [3WAVES – Polska](https://3waves.pl/)
+- [3WAVES – Deutschland](https://3waves.de/)
 - [GitHub](https://github.com/marian-tomkiewicz)
