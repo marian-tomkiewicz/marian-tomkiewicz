@@ -13,7 +13,7 @@ Combines software development expertise with an analytical approach to website o
 ### Fullstack Development
 - Custom Web Development & Bespoke Websites
 - Web Application Development
-- PHP, Yii2, Laravel
+- PHP, Yii, Laravel
 - JavaScript, HTML5, CSS3, Sass
 - SQL & MySQL
 - Python
@@ -38,7 +38,7 @@ Combines software development expertise with an analytical approach to website o
 
 ## Technologies & Tools
 
-**Backend:** PHP, Yii2, Laravel, Python
+**Backend:** PHP, Yii, Laravel, Python
 
 **Frontend:** JavaScript, HTML5, CSS3, Sass
 
